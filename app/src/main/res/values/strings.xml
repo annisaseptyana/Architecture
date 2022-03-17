@@ -5,4 +5,10 @@
     <string name="calculate">Hitung</string>
     <string name="height">Tinggi</string>
     <string name="length">Panjang</string>
+    <string name="viewmodel_exercise">ViewModel Exercise</string>
+    <string name="ktx_activity_and_fragment">KTX Activity and Fragment</string>
+    <string name="android_ktx_exercise">Android KTX Exercise</string>
+    <string name="livedata_with_single_event">LiveData with Single Event</string>
+    <string name="livedata_with_api">LiveData with API</string>
+    <string name="livedata_exercise">LiveData Exercise</string>
 </resources>
